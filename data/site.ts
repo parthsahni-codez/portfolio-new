@@ -5,6 +5,7 @@ export const profile = {
   year: "Third Year",
   college: "Dayananda Sagar College of Engineering",
   collegeShort: "DSCE",
+  cgpa: "9.5",
   city: "Bangalore",
   country: "India",
   timeZone: "Asia/Kolkata",
@@ -18,7 +19,7 @@ export type ContactLink = {
 
 /** The only contact methods shown on the site. */
 export const contactLinks: ContactLink[] = [
-  { label: "Email", href: "mailto:work.parthsahni03@gmail.com", display: "work.parthsahni03@gmail.com" },
+  { label: "Email", href: "mailto:work.parthsahni@gmail.com", display: "work.parthsahni@gmail.com" },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/parth-sahni-a8158b336/", display: "parth-sahni" },
   { label: "WhatsApp", href: "https://wa.me/917042506018", display: "+91 70425 06018" },
 ];

@@ -41,6 +41,7 @@ export default function ResumePage() {
             <p>
               {profile.study} (CSD), {profile.year.toLowerCase()}
             </p>
+            <p>CGPA: {profile.cgpa}</p>
           </div>
         </section>
 
