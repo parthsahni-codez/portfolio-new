@@ -43,8 +43,8 @@ export function Hero() {
         <figure className="hero-portrait">
           <div className="hero-portrait-frame">
             <Image
-              src="/images/hero-portrait-viewpoint.jpg"
-              alt="Parth Sahni leaning on a railing at a hilltop viewpoint, misty valley behind him"
+              src="/images/hero-portrait-studio.jpeg"
+              alt="Parth Sahni smiling in glasses, a black blazer and white shirt, warm light behind him"
               fill
               priority
               quality={90}
